@@ -6,6 +6,13 @@ This is our SC1015 Mini-Project where we explore on the relationships between th
 2. EDA
 3. Machine Learning Models
 
+# **Presentation:**
+[![Demo video](https://img.youtube.com/vi/En8zxfaGikI/hqdefault.jpg)](https://youtu.be/En8zxfaGikI)
+
+- 🎥 **Demo video:** [Watch on YouTube](https://youtu.be/En8zxfaGikI)
+- 📑 **Slides (PDF):** [SC1015_Mini-Project_Slides.pdf](SC1015_Mini-Project_Slides.pdf)
+- 🎨 **Slides (Canva):** [View on Canva](https://www.canva.com/design/DAGCK8bLO2Q/5K71TEoTNqx78z-XdOGqRg/view)
+
 # **Dataset:**
 Dataset can be found here https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom
 
